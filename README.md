@@ -73,13 +73,14 @@ conda activate env_name
 
 The `env_name` refers to the name of the conda environment you create.
 
-Then directly run 'run.sh'. We recommend checking the commands inside the `run.sh` file as it uses `nohup`. If you want to run it directly, please remove the `nohup` related instructions.
+Then directly run `run.sh`. We recommend checking the commands inside the `run.sh` file as it uses `nohup`. If you want to run it directly, please remove the `nohup` related instructions.
 ```
 chmod 777 ./run.sh
 ./run.sh
 ```
 
-The specific hyperparameter settings need to be adjusted according to the original paper.
+In MUJOCO tasks, `-Value_Function` is a hyperparameter used to select between Critic and PeVFA. `-theta` is the probability of using a surrogate. `-EA_tau` is the hyperparameter for Genetic Soft Update. `-damp` is the hyperparameter for CEM. In MetaWorld tasks, we remove `-Value_Function` for simplicity. These specific hyperparameter settings need to be adjusted according to the original paper. Other hyperparameters can be kept at their default settings.
+
 
 
 ## :beginner: License & Acknowledgements
