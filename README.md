@@ -79,7 +79,7 @@ chmod 777 ./run.sh
 ./run.sh
 ```
 
-In MUJOCO tasks, `-Value_Function` is a hyperparameter used to select between Critic and PeVFA. `-theta` is the probability of using a surrogate. `-EA_tau` is the hyperparameter for Genetic Soft Update. `-damp` is the hyperparameter for CEM. In MetaWorld tasks, we remove `-Value_Function` for simplicity. These specific hyperparameter settings need to be adjusted according to the original paper. Other hyperparameters can be kept at their default settings.
+In MUJOCO tasks, `-Value_Function` is a hyperparameter used to select between Critic and PeVFA. `-theta` is the probability of using a surrogate. `-EA_tau` is the hyperparameter for Genetic Soft Update. `-damp` is the hyperparameter for CEM. In MetaWorld tasks, we remove `-Value_Function` for simplicity. These specific hyperparameter settings need to be adjusted according to the original paper. Other hyperparameters can be kept at their default settings. (The theta is 0.8 instead of 0.2 in Humanoid tasks for EvoRainbow)
 
 
 
