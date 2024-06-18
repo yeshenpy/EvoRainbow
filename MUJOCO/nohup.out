@@ -1,0 +1,1068 @@
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/site-packages/gym/envs/registration.py:14: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.001,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 1,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f8b56b3d9e8>}
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 1e-05,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_1e-05_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_1e-05_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 1,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7faaefce39e8>}
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.001,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 0,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7fd2e75b5a20>}
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.0001,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.0001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.0001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 2,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7ff0eb4209b0>}
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 1e-05,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_1e-05_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_1e-05_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 0,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f2885511a20>}
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.0001,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.0001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.0001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 0,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f21222e69b0>}
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.01,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.01_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.01_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 1,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f931b1c39b0>}
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.01,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.01_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.01_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 0,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f84b03b2940>}
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.001,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 2,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f447203a828>}
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.0001,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.0001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.0001_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 1,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f1cefb7da20>}
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 1e-05,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_1e-05_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_1e-05_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 2,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f85e904d9b0>}
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+env.action_space.low [-0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4 -0.4
+ -0.4 -0.4 -0.4] env.action_space.high [0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4]
+{   'EA': True,
+    'EA_actor_alpha': 1.0,
+    'K': 1,
+    'OFF_TYPE': 1,
+    'RL': True,
+    'TD3_noise': 0.2,
+    'action_dim': 17,
+    'actor_alpha': 1.0,
+    'alpha': 0.7,
+    'batch_size': 128,
+    'beta_zero': 0.5,
+    'buffer_size': 1000000,
+    'crossover_prob': 0.0,
+    'damp': 0.01,
+    'damp_limit': 1e-05,
+    'detach_z': False,
+    'device': device(type='cpu'),
+    'distil': False,
+    'distil_type': 'fitness',
+    'elite_fraction': 0.2,
+    'elitism': False,
+    'env_name': 'Humanoid-v2',
+    'frac': 0.0,
+    'frac_frames_train': 1.0,
+    'gamma': 0.99,
+    'individual_bs': 8000,
+    'init_steps': 10000,
+    'intention': False,
+    'learn_start': 15627.0,
+    'ls': 300,
+    'mult_noise': False,
+    'mutation_batch_size': 256,
+    'mutation_mag': 0.05,
+    'mutation_noise': False,
+    'mutation_prob': 0.9,
+    'n_grad': 3,
+    'name': 'Add_CEM_use_Re2_0.001_0.01_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'next_save': 200,
+    'ns': False,
+    'ns_epochs': 10,
+    'num_evals': 1,
+    'num_frames': 1005000,
+    'opstat': False,
+    'opstat_freq': 1,
+    'per': False,
+    'pop_size': 5,
+    'pr': 64,
+    'prob_reset_and_sup': 0.05,
+    'proximal_mut': False,
+    'random_choose': False,
+    'render': False,
+    'replace_old': True,
+    'rl_to_ea_synch_period': 1,
+    'save_foldername': './logs/Add_CEM_use_Re2_0.001_0.01_H_alpha_0_1.0_K_1_Humanoid-v2',
+    'save_periodic': False,
+    'seed': 2,
+    'sigma_init': 0.001,
+    'state_alpha': 0.0,
+    'state_dim': 376,
+    'tau': 0.005,
+    'test_operators': False,
+    'theta': 1.0,
+    'time_steps': 0,
+    'total_steps': 1005000,
+    'use_all': False,
+    'use_done_mask': True,
+    'use_ln': True,
+    'verbose_crossover': False,
+    'verbose_mut': False,
+    'wandb': <wandb.sdk.wandb_run.Run object at 0x7f9d0a711a20>}
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+Running Humanoid-v2  State_dim: 376  Action_dim: 17
+Progress Saved
+Progress Saved
+#Games: 211 #Frames: 5025  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 172.55  PG Loss: 0.0000
+
+Progress Saved
+Progress Saved
+Progress Saved
+#Games: 211 #Frames: 5025  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 172.55  PG Loss: 0.0000
+
+Progress Saved
+#Games: 206 #Frames: 5004  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 145.86  PG Loss: 0.0000
+
+#Games: 206 #Frames: 5004  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 145.86  PG Loss: 0.0000
+
+#Games: 209 #Frames: 5023  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 195.26  PG Loss: 0.0000
+
+Progress Saved
+Progress Saved
+#Games: 209 #Frames: 5023  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 195.26  PG Loss: 0.0000
+
+Progress Saved
+Progress Saved
+Progress Saved
+#Games: 206 #Frames: 5004  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 145.86  PG Loss: 0.0000
+
+Progress Saved
+#Games: 209 #Frames: 5023  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 195.26  PG Loss: 0.0000
+
+#Games: 206 #Frames: 5004  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 145.86  PG Loss: 0.0000
+
+#Games: 211 #Frames: 5025  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 172.55  PG Loss: 0.0000
+
+#Games: 211 #Frames: 5025  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 172.55  PG Loss: 0.0000
+
+#Games: 209 #Frames: 5023  Train_Max: 0.00  Mu_Score: 0.00  Test_Score: 0.00  Avg: 0.00  ENV:  Humanoid-v2  DDPG Reward: 195.26  PG Loss: 0.0000
+
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 11, in <module>
+    process = psutil.Process(os.getpid())
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "run_tsr.py", line 17, in <module>
+    process.cpu_limit(100) 
+AttributeError: 'Process' object has no attribute 'cpu_limit'
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/home/lpy/anaconda3/envs/lpy/lib/python3.6/multiprocessing/semaphore_tracker.py:143: UserWarning: semaphore_tracker: There appear to be 6 leaked semaphores to clean up at shutdown
+  len(cache))

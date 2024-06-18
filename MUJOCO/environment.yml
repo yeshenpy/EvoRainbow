@@ -1,4 +1,4 @@
-name: revisiting
+name: EvoRainbow-MUJOCO
 channels:
   - defaults
 dependencies:
