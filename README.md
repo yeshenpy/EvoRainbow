@@ -7,7 +7,11 @@
 # 🌈 EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search
 (ICML 2024) The official code for EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search
 
-
+<p align="center">
+    <br>
+    <img src="Figure/Overall.jpg", width="400"/>
+    <br>
+<p>
 
 EvoRainbow integrates the latest advancements in ERL methods for policy search. Specifically, EvoRainbow contributes as follows:
 
@@ -27,11 +31,7 @@ EvoRainbow = Parallel Mode + Shared Architecture + CEM + Genetic Soft Update + H
 EvoRainbow-Exp = Parallel Mode + Private Architecture + CEM + Genetic Soft Update.
 Our repository primarily provides the implementation codes for EvoRainbow and EvoRainbow-Exp on MUJOCO and Metaworld. We will consider releasing the code for other environments in the future.
 
-<p align="center">
-    <br>
-    <img src="Figure/Result.jpg"/>
-    <br>
-<p>
+
 
 ## 🙏 Citation
 
